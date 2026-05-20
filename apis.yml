@@ -20,6 +20,8 @@ modified: '2026-05-03'
 specificationVersion: '0.19'
 apis: []
 common:
+  - type: GitHubOrganization
+    url: https://github.com/ultabeauty
   - type: Website
     url: https://www.ulta.com
   - type: PrivacyPolicy

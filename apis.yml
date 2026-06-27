@@ -52,7 +52,7 @@ common:
     data:
       - name: Ulta Beauty (Formerly Ulta Salon)
         description: Rebranded retail identity now operating as Ulta Beauty with 1,400+ stores nationwide and a full e-commerce platform.
-  - type: LLMsTxt
+  - type: LlmsText
     url: https://www.ulta.com/llms.txt
 maintainers:
   - FN: Kin Lane

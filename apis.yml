@@ -20,6 +20,8 @@ modified: '2026-05-03'
 specificationVersion: '0.19'
 apis: []
 common:
+  - type: DomainSecurity
+    url: security/ulta-salon-cosmetics-and-fragrance-domain-security.yml
   - type: GitHubOrganization
     url: https://github.com/ultabeauty
   - type: Website

@@ -1,7 +1,9 @@
 ---
 title: Ulta Beauty Privacy Policy | How We Use and Protect ...
 url: https://www.ulta.com/company/privacy
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"Ulta Salon Cosmetics & Fragrance" press release artificial intelligence'
 position: 4
 source: serpapi-google

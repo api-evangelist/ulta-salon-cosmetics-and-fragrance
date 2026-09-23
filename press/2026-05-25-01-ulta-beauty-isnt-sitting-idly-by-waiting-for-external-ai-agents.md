@@ -1,7 +1,9 @@
 ---
 title: Ulta Beauty isn't sitting idly by waiting for external AI agents ...
 url: https://www.facebook.com/forbes/posts/ulta-beauty-isnt-sitting-idly-by-waiting-for-external-ai-agents-to-make-beauty-d/1336670648322922/
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"Ulta Salon Cosmetics & Fragrance" press release artificial intelligence'
 position: 1
 source: serpapi-google

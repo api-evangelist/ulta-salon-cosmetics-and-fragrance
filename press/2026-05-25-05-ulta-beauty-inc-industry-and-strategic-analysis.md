@@ -1,7 +1,9 @@
 ---
 title: Ulta Beauty, Inc. Industry and Strategic Analysis
 url: https://scholarworks.merrimack.edu/cgi/viewcontent.cgi?article=1000&context=mgt_studentpub
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"Ulta Salon Cosmetics & Fragrance" press release artificial intelligence'
 position: 5
 source: serpapi-google
